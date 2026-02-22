@@ -1,0 +1,22 @@
+Phishing Email Analysis Report Submitted By: Shan Yoosuf Internship:
+Cyber Security Internship - Task 2
+
+Objective: To analyze a suspicious email sample and identify phishing
+characteristics.
+
+Sample Email Summary: The email claims to be from a bank requesting
+urgent verification of account details due to suspicious activity.
+
+Phishing Indicators Identified: 1. Spoofed sender email address. 2.
+Urgent and threatening language. 3. Suspicious hyperlink redirecting to
+fake login page. 4. Mismatched URL. 5. Spelling and grammar errors. 6.
+Request for sensitive information. 7. Header discrepancies detected.
+
+Header Analysis Findings: SPF and DKIM checks failed. Return-path does
+not match sender domain.
+
+Risks: - Credential theft - Financial loss - Identity theft - Malware
+infection
+
+Conclusion: The email contains clear phishing traits and should be
+reported and deleted immediately.
